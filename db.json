@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "JavaScript",
+      "author": "marijn haverbeke",
+      "cover_url": "https://eloquentjavascript.net/img/cover.jpg",
+      "price": 500,
+      "pages": "150",
+      "category": "Technical",
+      "year": "2018",
+      "rating": "4",
+      "book_reader": "https://eloquentjavascript.net/"
+    },
+    {
+      "id": "102",
+      "title": "Java",
+      "author": "Cay S. Horstmann",
+      "cover_url": "https://images.springer.com/sgw/books/medium/9781484237779.jpg",
+      "price": 400,
+      "pages": "250",
+      "category": "Technical",
+      "year": "2020",
+      "rating": "5",
+      "book_reader": "https://www.freecodecamp.org/news/must-read-books-to-learn-java-programming-327a3768ea2f/"
+    },
+    {
+      "id": "103",
+      "title": "React",
+      "author": " Robin Wieruch",
+      "cover_url": "https://m.media-amazon.com/images/I/51dzkNKzYDL.jpg",
+      "price": 400,
+      "pages": "250",
+      "category": "Technical",
+      "year": "2020",
+      "rating": "5",
+      "book_reader": "https://reactforbeginners.com/"
+    },
+    {
+      "id": "104",
+      "title": "React Native",
+      "author": "Bonnie Eisenman",
+      "cover_url": "https://www.oreilly.com/library/view/learning-react-native/9781491929049/assets/cover.png",
+      "price": 400,
+      "pages": "250",
+      "category": "Technical",
+      "year": "2020",
+      "rating": "5",
+      "book_reader": "https://www.imel.ba/edukacija/learningreactnative.pdf"
+    },
+    {
+      "id": "105",
+      "title": "Html",
+      "author": "Jakob Nielsen",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/I/41STA3KRZWL._SX258_BO1,204,203,200_.jpg",
+      "price": 400,
+      "pages": "250",
+      "category": "Technical",
+      "year": "2020",
+      "rating": "5",
+      "book_reader": "http://www.htmlandcssbook.com/code-samples/"
+    },
+    {
+      "id": "106",
+      "title": "Css",
+      "author": "Smith",
+      "cover_url": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4302-6503-0",
+      "price": 400,
+      "pages": "250",
+      "category": "Technical",
+      "year": "2020",
+      "rating": "5",
+      "book_reader": "https://books.goalkicker.com/CSSBook/"
+    }
+  ]
+}
