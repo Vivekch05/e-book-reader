@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e852152564ce8af8851ed8859dfbb3fc",
+    "revision": "087134310915aff3395169a76eff9e64",
     "url": "/e-book-reader/index.html"
   },
   {
-    "revision": "65c26f6a316f36722cd9",
+    "revision": "feb6b2751c50e1750016",
     "url": "/e-book-reader/static/css/2.4e1b8863.chunk.css"
   },
   {
-    "revision": "05bb97556df826bf35ae",
+    "revision": "7e1b49d952dcb3856645",
     "url": "/e-book-reader/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "65c26f6a316f36722cd9",
-    "url": "/e-book-reader/static/js/2.883a48a5.chunk.js"
+    "revision": "feb6b2751c50e1750016",
+    "url": "/e-book-reader/static/js/2.8c3a6233.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/e-book-reader/static/js/2.883a48a5.chunk.js.LICENSE.txt"
+    "url": "/e-book-reader/static/js/2.8c3a6233.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05bb97556df826bf35ae",
-    "url": "/e-book-reader/static/js/main.62e83229.chunk.js"
+    "revision": "7e1b49d952dcb3856645",
+    "url": "/e-book-reader/static/js/main.9fc53e69.chunk.js"
   },
   {
     "revision": "64be4ffc744942535fca",
