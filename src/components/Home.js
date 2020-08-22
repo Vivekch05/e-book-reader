@@ -9,7 +9,7 @@ export default class Home extends Component {
             <>
                 <Carousel>
                     <Carousel.Item>
-                        <img className="d-block w-100" src={HomePic1} style={{ height: "700px" }} alt="First slide" />
+                        <img className="d-block w-100" src={HomePic1} style={{ height: "750px" }} alt="First slide" />
                         <Carousel.Caption>
                             <h3>First slide</h3>
                             <p>A reader lives a thousand lives before he dies . . . </p>
@@ -17,14 +17,14 @@ export default class Home extends Component {
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
-                        <img className="d-block w-100" src={HomePic2} style={{ height: "700px" }} alt="Third slide" />
+                        <img className="d-block w-100" src={HomePic2} style={{ height: "750px" }} alt="Third slide" />
                         <Carousel.Caption>
                             <h3>Second slide</h3>
                             <p>Books are a uniquely portable magic.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
-                        <img className="d-block w-100" src={HomePic3} style={{ height: "700px",opacity:"1" }} alt="Third slide" />
+                        <img className="d-block w-100" src={HomePic3} style={{ height: "750px",opacity:"1" }} alt="Third slide" />
                         <Carousel.Caption>
                             <h3>Third slide</h3>
                             <p>Read the best books first, or you may not have a chance to read them at all.</p>

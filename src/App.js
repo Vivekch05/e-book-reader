@@ -2,12 +2,11 @@ import React from 'react';
 import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import Main from './components/Main';
-import { Link } from 'react-router-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { Link, HashRouter } from 'react-router-dom';
 import Logo from './images/logo1.jpg'
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Layout fixedHeader>
         {/* <Header title={<span><span style={{ color: '#ddd' }}>E-Book </span><strong>Reader</strong></span>}> */}
         <Header style={{ background: "#008080", zIndex: "1" }} title={<Link style={{ textDecoration: "none", color: "white" }}
@@ -37,7 +36,7 @@ function App() {
           <Main />
         </Content>
       </Layout>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
